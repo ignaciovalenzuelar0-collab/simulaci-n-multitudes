@@ -1,0 +1,17 @@
+"BehaviorSpace results (NetLogo 7.0.4)","Spreadsheet version 2.0"
+"Flocking.nlogox"
+"PruebaSeparacion"
+"06/13/2026 00:45:43:849 -0400"
+"min-pxcor","max-pxcor","min-pycor","max-pycor"
+"-35","35","-35","35"
+"[run number]","1","1","2","2","3","3"
+"vision","5",,"5",,"5",
+"max-separate-turn","1.5",,"3",,"5",
+"minimum-separation","1",,"1",,"1",
+"max-align-turn","5",,"5",,"5",
+"max-cohere-turn","3",,"3",,"3",
+"population","150",,"150",,"150",
+"[total steps]","1000","1000","1000","1000","1000","1000"
+
+"[final value]","[step]","count turtles with [xcor > 5]","[step]","count turtles with [xcor > 5]","[step]","count turtles with [xcor > 5]"
+,"1000","76","1000","113","1000","30"
